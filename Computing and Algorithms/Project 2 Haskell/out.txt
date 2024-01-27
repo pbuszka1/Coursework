@@ -1,0 +1,16 @@
+		Parker's Amazingly ok right triangle checker
+
+3 4 is a right triangle with hypotenuse 5
+4 is the hypotenuse of a right triangle with legs 5 3
+6 7 does not make a right triangle
+748 985 does not make a right triangle
+17 17 does not make a right triangle
+0 0 does not make a right triangle
+-4 -6 does not make a right triangle
+9 40 is a right triangle with hypotenuse 41
+40 is the hypotenuse of a right triangle with legs 41 9
+9 is the hypotenuse of a right triangle with legs 41 40
+35 612 is a right triangle with hypotenuse 613
+35 is the hypotenuse of a right triangle with legs 613 612
+612 is the hypotenuse of a right triangle with legs 613 35
+612 is the hypotenuse of a right triangle with legs 613 35
